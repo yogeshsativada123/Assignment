@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1213","Scenario 5: Logout","chromium","Fri Sep 19 16:57:52 IST 2025","passed","Fri Sep 19 16:57:53 IST 2025","DemoBlaze Sequential Flow","demoBlaze.spec.js","",""
+"","2701","Scenario 1: Signup","chromium","Fri Sep 19 16:57:40 IST 2025","passed","Fri Sep 19 16:57:42 IST 2025","DemoBlaze Sequential Flow","demoBlaze.spec.js","",""
+"","388","Scenario 4: Product","chromium","Fri Sep 19 16:57:51 IST 2025","passed","Fri Sep 19 16:57:52 IST 2025","DemoBlaze Sequential Flow","demoBlaze.spec.js","",""
+"","1385","Scenario 3: Contact","chromium","Fri Sep 19 16:57:50 IST 2025","passed","Fri Sep 19 16:57:51 IST 2025","DemoBlaze Sequential Flow","demoBlaze.spec.js","",""
+"","5102","Scenario 2: Login","chromium","Fri Sep 19 16:57:45 IST 2025","passed","Fri Sep 19 16:57:50 IST 2025","DemoBlaze Sequential Flow","demoBlaze.spec.js","",""

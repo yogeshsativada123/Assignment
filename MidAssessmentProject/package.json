@@ -1,0 +1,19 @@
+{
+  "name": "midassessmentproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.5.2",
+    "allure-playwright": "^3.4.1",
+    "pino-pretty": "^13.1.1"
+  },
+  "dependencies": {
+    "pino": "^9.10.0"
+  }
+}
