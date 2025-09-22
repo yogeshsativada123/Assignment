@@ -10,6 +10,6 @@ export default class SignupPage {
     await this.page.fill(this.usernameInput, username);
     await this.page.fill(this.passwordInput, password);
     await this.page.click(this.signupBtn);
-    await this.page.waitForTimeout(2000);
+    await this.page.waitForTimeout(3000);
   }
 }
